@@ -21,6 +21,13 @@ public class Main {
         System.out.println("git marge");
 
 
+        System.out.println("Github tiene muchos comandos");
+        System.out.println("Si o no marino? ");
+        System.out.println("Sí señor ");
+
+
+
+
 
     }
     }
